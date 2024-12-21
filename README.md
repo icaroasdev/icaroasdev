@@ -1,6 +1,8 @@
-## Olá, meu nome é Ícaro.
-### Bem vindos ao meu perfil GitHub 👋
-#
+# 👋 Olá! Sou Ícaro Alencar Sousa
+
+### 💻 Engenheiro/Desenvolvedor de Software | Entusiasta por Tecnologia
+
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, com experiência em diversas tecnologias modernas. Adoro explorar novos desafios e colaborar em projetos inovadores que impactam positivamente o mundo.
 
 - 🌱 Estou atualmente aprendendo DevOps e Machine learning
 - 👯 Estou procurando colaborar em projetos Open Source
