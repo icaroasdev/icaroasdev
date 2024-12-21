@@ -1,4 +1,4 @@
-# 👋 Oi! Eu sou o Ícaro
+# 👋 Oi! Eu sou o Ícaro! 😃
 
 ### 💻 Engenheiro/Desenvolvedor de Software | Entusiasta por Tecnologia
 
