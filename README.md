@@ -2,6 +2,8 @@
 ##B em vindos ao meu perfil GitHub 👋
 
 ## Minha caixa de ferramentas 🔧
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" width="25"/>
+
 
 
 
