@@ -4,6 +4,7 @@
 
 - 🌱 Estou atualmente aprendendo DevOps e Machine learning
 - 👯 Estou procurando colaborar em projetos Open Source
+
   
 <div align="center">
   <h1>
@@ -28,8 +29,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" height="50" width="50" />&nbsp;
 </div>
 
+<br/>
 
+<br/>
 
+<div align=center>
+  <a href="https://github.com/seu-usuário-aqui">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroasdev&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
+</div>
+
+<br/>
+<br>
+<h3>Contatos</h3>
+<div>
+  <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 
