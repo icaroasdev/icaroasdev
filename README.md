@@ -3,7 +3,7 @@
 
 ## Minha caixa de ferramentas <img src="https://cdn-icons-png.flaticon.com/512/5604/5604299.png" height="50" width="50"/>
 <br/>
-<p>
+<p style="margin-right: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="50"/
